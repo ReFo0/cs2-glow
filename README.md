@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/stars/refo0/cs2-glow)
+![](https://img.shields.io/github/forks/refo0/cs2-glow)
 
 ### 🧾
 
